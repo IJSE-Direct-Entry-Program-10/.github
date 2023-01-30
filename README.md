@@ -1,2 +1,3 @@
-# .github
-Direct Entry Program 10 Profile Page
+# Direct Entry Program - 10
+
+Welcome to the DEP-10 GitHub Profile
